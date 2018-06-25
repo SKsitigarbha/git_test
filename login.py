@@ -4,3 +4,7 @@ a = 1
 b = 2
 # 在马小明的项目中操作脚本定义变量c
 c = 3
+
+# 马小明操作：定义一个函数输出hello world～
+def fun1():
+    print("hello world~")
