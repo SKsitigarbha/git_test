@@ -8,3 +8,7 @@ c = 3
 # 马小明操作：定义一个函数输出hello world～
 def fun1():
     print("hello world~")
+
+# 在经理项目中定义变量d
+d = 4
+
